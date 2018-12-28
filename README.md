@@ -1,5 +1,7 @@
 ### B户型设计图（可能有些出入）
 
+![](https://raw.githubusercontent.com/flymzero/TianduCity_B_Type/master/1.png)
+
 - 单位 ：10cm
 - 黑色 ：承重墙
 - 灰色 ：非承重墙
